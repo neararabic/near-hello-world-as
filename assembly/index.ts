@@ -1,5 +1,3 @@
-
-// return the string 'hello world'
-export function helloWorld(): string {
-  return 'hello world from blockchain world!'
+export function sayHello(): string {
+  return "hello from the blockchain world!";
 }
