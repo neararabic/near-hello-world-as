@@ -24,6 +24,6 @@ https://explorer.testnet.near.org/transactions/EtdLuXkhT5eex1ubT1pRKhETZNv8AoAMz
 Done deploying to dev-1643380555927-18139425398700
 `
 
-4. run `near call dev-1643380555927-18139425398700 sayHello '{}' --accountId=EXAMPLE.testnet`  to call the method `sayHello` 
+5. run `near call dev-1643380555927-18139425398700 sayHello '{}' --accountId=EXAMPLE.testnet`  to call the method `sayHello` 
 
 You should see the output message `hello from blockchain world!` printed on your console.
