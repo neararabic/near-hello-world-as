@@ -2,7 +2,7 @@
 
 This repo is a simple example for a smart contract built for [NEAR Protocol](https://near.org). It uses AssemblyScript programming language. 
 
-The contract contains only one function `sayHello` that returns the string "hello from blockchain world!"
+The contract contains only one function `sayHello` that returns the string "hello from the blockchain world!"
 
 
 ## Usage
@@ -26,4 +26,4 @@ Done deploying to dev-1643380555927-18139425398700
 
 5. run `near call dev-1643380555927-18139425398700 sayHello '{}' --accountId=EXAMPLE.testnet`  to call the method `sayHello` 
 
-You should see the output message `hello from blockchain world!` printed on your console.
+You should see the output message `hello from the blockchain world!` printed on your console.
