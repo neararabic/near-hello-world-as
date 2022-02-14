@@ -1,10 +1,9 @@
-import * as contract from "../assembly";
+import { sayHello } from "../assembly/index";
 
 describe("Contract", () => {
   // VIEW method tests
 
   it("says hello", () => {
-    expect(contract.helloWorld()).toStrictEqual("hello world")
-  })
-  
-})
+    expect(sayHello()).toStrictEqual("hello from the blockchain world!");
+  });
+});

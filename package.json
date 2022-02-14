@@ -14,6 +14,7 @@
   "author": "hello@world-near.org",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "^27.4.0",
     "near-sdk-as": "^3.1.0"
   }
 }
