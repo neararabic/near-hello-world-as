@@ -1,7 +1,18 @@
+//import sayHello from "../assembly/index
+//لاستدعاء الفنكش
+//sayHello
+// من الملف
+//index
 import { sayHello } from "../assembly/index";
 
+//describe
+//لوصف مجموعة اختيارات بإسم  يظهر فى النتائج بعد ذلك
 describe("Contract", () => {
-  it("says hello", () => {
+  //it
+  //أحد طرق وصف اختبار مثلما نقول هذا الإختبار يجب أن
+  it("should say print the statement 'hello from the blockchain world!' ", () => {
+    //نتوقع نتيجة استدعاء الفنكشن أن تكون مساوية للجملة
+    //hello from the blockchain world!
     expect(sayHello()).toStrictEqual("hello from the blockchain world!");
   });
 });
