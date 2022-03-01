@@ -5,12 +5,9 @@
 
 يحتوي ملف الكود الرئيسي على دالة واحدة فنكشن `sayHello` و التي تقوم - عند استدعائها - بإرجاع جملة "Hello from the blockchain world!" 
 
-## يمكنك مشاهدة فيديو عملي للخطوات التالية هنــا
-
-<center>
+## يمكنك مشاهدة فيديو عملي للخطوات التالية هنا:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LubFN4kasN4/0.jpg)](https://www.youtube.com/watch?v=LubFN4kasN4) 
-</center>
 
 
 ## طريقة الإستخدام
