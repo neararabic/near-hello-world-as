@@ -1,4 +1,4 @@
-# `near-hello-world-شس` 
+# `near-hello-world-as` 
 هذا المشروع هو مثال بسيط لعقد ذكي smart contract  تم تنفيذه على منصة نيــر.[NEAR Protocol](https://near.org) 
 
 يمكنك استخدام هذا المشروع كنقطة بداية لتطبيقات البلوك تشين على شبكة نير. 
