@@ -7,7 +7,7 @@
 
 ## يمكنك مشاهدة فيديو عملي للخطوات التالية هنا:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LubFN4kasN4/0.jpg)](https://www.youtube.com/watch?v=LubFN4kasN4) 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LubFN4kasN4/0.jpg)](https://www.youtube.com/watch?v=LubFN4kasN4)ا
 
 
 ## طريقة الإستخدام
