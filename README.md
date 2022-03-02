@@ -29,8 +29,7 @@ Done deploying to dev-1643380555927-18139425398700
 9. يمكنك استخدام هذا الأمر أيضا `near view dev-1643380555927-18139425398700 sayHello`  
 10. ستجد ناتج الرسالة ظهر على شاشة الأوامر بناتج العلية 
 
-ملحوطة: يمكنك رفع ملف الwasm على حساب مخصص. تجد الخطوات فى الرابظ التالي:
-هنا: https://www.youtube.com/watch?v=Yuid1QH_NWg&list=PLYH8jWLZAVt62bVY0aEnMquZn-jpTZPhQ&index=11
+ملحوطة: يمكنك رفع ملف الwasm على حساب مخصص. تجد الخطوات فى هذا الرابظ  : https://www.youtube.com/watch?v=Yuid1QH_NWg&list=PLYH8jWLZAVt62bVY0aEnMquZn-jpTZPhQ&index=11
 
 
 
