@@ -10,7 +10,7 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LubFN4kasN4/0.jpg)](https://www.youtube.com/watch?v=LubFN4kasN4)ا
 
 
-## طريقة الإستخدام
+## طريقة الاستخدام
 
 1. انسخ هذا المشروع clone على جهازك الشخصي فى أى مكان
 2. فى شاشة الأوامر terminal /  command line interface  افتح المجلد و قم بكتابة الأمر   `yarn`  لتثبيت المكتبات التي يحتاجها المشروع للتشغيل
